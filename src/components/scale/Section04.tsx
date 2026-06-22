@@ -62,7 +62,7 @@ const Section04 = () => (
         <p className="font-bold text-foreground">📍 Mais detalhes sobre a Imersão</p>
         <p className="text-sm text-muted-foreground">Conheça todos os detalhes sobre local, hospedagem, alimentação, transporte e logística.</p>
         <a
-          href="https://imersaoscale.lovable.app/"
+          href="https://imersao-scale-v4company.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block gradient-primary text-white font-bold text-xs tracking-wide px-6 py-3 rounded-lg hover:opacity-90 transition-opacity shadow-lg"

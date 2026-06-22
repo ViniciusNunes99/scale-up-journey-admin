@@ -23,7 +23,7 @@ const Section05 = () => (
             <p>Formato: Vídeos, aulas práticas e materiais interativos</p>
           </div>
           <a
-            href="https://wa.me/5519936197284?text=Quero%20solicitar%20acesso%20ao%20curso%20Cientista%20do%20Marketing"
+            href="https://wa.me/5519971640438?text=Quero%20solicitar%20acesso%20ao%20curso%20Cientista%20do%20Marketing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block gradient-primary text-white font-bold text-xs tracking-wide px-6 py-3 rounded-lg hover:opacity-90 transition-opacity shadow-lg"

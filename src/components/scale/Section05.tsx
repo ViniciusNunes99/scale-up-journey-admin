@@ -61,7 +61,7 @@ const Section05 = () => (
             desc: "Apostila com resumo dos principais modelos de Revenue Architecture. Material complementar aos blueprints.",
             info: "Livro físico/digital",
             cta: "COMPRAR NA AMAZON →",
-            href: "https://www.amazon.com.br/Revenue-Architecture-English-Jacco-Kooij-ebook/dp/B0D276CWPQ/ref=sr_1_1",
+            href: "https://www.amazon.com.br/Revenue-Architecture-Jacco-van-Kooij/dp/B0CKZHVMDR",
           },
           {
             emoji: "🎬",

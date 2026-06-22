@@ -1,0 +1,139 @@
+╔════════════════════════════════════════════════════════════════════╗
+║        🚀 SCALE-UP JOURNEY ADMIN - COMECE AQUI!                   ║
+╚════════════════════════════════════════════════════════════════════╝
+
+SEU PROJETO ESTÁ 100% PRONTO PARA SUBIR AO AR!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3 PASSOS SIMPLES (15 minutos):
+
+PASSO 1: CRIAR REPOSITÓRIO NO GITHUB
+─────────────────────────────────────
+
+1. Abra: https://github.com/new
+2. Preencha assim:
+   - Repository name: scale-up-journey-admin
+   - Description: Scale-Up Journey Admin Dashboard
+   - Public ou Private: escolha você
+3. Clique: "Create repository"
+4. GitHub vai mostrar algumas instruções - ignore por enquanto
+
+Pronto! Você criou o repositório.
+
+
+PASSO 2: FAZER PUSH DO SEU CÓDIGO
+──────────────────────────────────
+
+Depois que GitHub criar o repo, ele mostrará um bloco assim:
+
+   git remote add origin https://github.com/vinicius-nunes/scale-up-journey-admin.git
+   git branch -M main
+   git push -u origin main
+
+COPIE E COLE EXATAMENTE (pode vir com seu nome, não vinicius-nunes):
+
+1. Abra PowerShell ou Terminal
+2. Navegue até a pasta:
+   cd C:\Users\vinicius.nunes_v4com\.claude\projects\scale-up-journey-admin
+
+3. Cole os 3 comandos que GitHub mostrou:
+   git remote add origin https://github.com/vinicius-nunes/scale-up-journey-admin.git
+   git branch -M main
+   git push -u origin main
+
+4. Pressione Enter e espere terminar (vai pedir sua senha/token)
+
+✅ Pronto! Seu código está no GitHub!
+
+
+PASSO 3: CONECTAR NO VERCEL E FAZER DEPLOY
+────────────────────────────────────────────
+
+1. Abra: https://vercel.com
+2. Faça login com: vinicius.nunes@v4company.com
+3. Clique em "Add New" > "Project"
+4. Clique em "Import Git Repository"
+5. Selecione GitHub
+6. Procure por: scale-up-journey-admin
+7. Clique em "Import"
+8. Deixe as configurações padrão (já está tudo certo)
+9. Clique em "Deploy"
+10. Espere 3-5 minutos...
+
+✅ PRONTO! SEU SITE ESTÁ NO AR! 🎉
+
+Vercel vai mostrar uma URL assim:
+https://scale-up-journey-admin.vercel.app
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+E DEPOIS?
+
+A partir de agora:
+- Você muda o código localmente
+- Faz "git push" para GitHub
+- Vercel vê a mudança
+- Deploy automático acontece
+- Seu site atualiza automaticamente!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TESTAR LOCALMENTE ANTES (opcional mas recomendado):
+
+Se quiser testar antes:
+
+1. Abra PowerShell na pasta:
+   cd C:\Users\vinicius.nunes_v4com\.claude\projects\scale-up-journey-admin
+
+2. Instale as dependências:
+   npm install
+
+3. Execute:
+   npm run dev
+
+4. Abre em http://localhost:5173
+
+5. Pronto! Você vê o site localmente!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MAIS INFORMAÇÕES:
+
+Se tiver dúvidas, leia esses arquivos:
+
+- VERCEL_SETUP.md          ← Guia completo Vercel
+- README_PT-BR.md          ← Como usar o projeto
+- DEPLOYMENT.md            ← Outras opções de deploy
+- PRE-DEPLOY-CHECKLIST.md  ← Antes de subir ao ar
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DÚVIDAS COMUNS:
+
+P: Preciso instalar algo?
+R: Node.js (https://nodejs.org/) - o npm já vem nele
+
+P: Posso usar outro nome para o repositório?
+R: Sim! Use o nome que quiser (mas lembre-se em todos os passos)
+
+P: Posso colocar em produção com outro domínio?
+R: Sim! Vercel permite conectar domínios customizados (Settings > Domains)
+
+P: E se der erro no deploy?
+R: Vercel mostra os logs. Leia e corrija o código, faça push de novo.
+
+P: Preciso pagar algo?
+R: Não! Vercel é grátis para projetos pequenos/médios.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RESUMO RÁPIDO:
+
+GitHub (seu código) → Vercel (no ar) → Internet (seu site)
+
+Simples assim!
+
+Boa sorte! 🚀
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

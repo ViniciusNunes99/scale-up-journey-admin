@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Red background with rounded corners -->
+  <rect width="200" height="200" rx="40" fill="#E63946"/>
+
+  <!-- White checkmark with diagonal lines -->
+  <g transform="translate(50, 50)">
+    <!-- Left diagonal line (part of checkmark) -->
+    <polygon points="10,60 35,35 50,50 40,60" fill="white"/>
+
+    <!-- Right diagonal line -->
+    <polygon points="35,35 80,10 90,20 45,45" fill="white"/>
+  </g>
+</svg>

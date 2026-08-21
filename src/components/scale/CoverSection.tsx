@@ -10,18 +10,20 @@ const CoverSection = () => (
 
     <div className="relative z-10 flex-1 flex flex-col items-center justify-center text-center">
       <p className="text-sm font-medium tracking-widest uppercase text-white/70 mb-3">Bem-vindo(a) ao</p>
-      <h1 className="text-5xl md:text-7xl lg:text-8xl font-black leading-[0.95] mb-6">
-        <span className="text-white">Scale</span>{" "}
-        <span className="text-white/80">Program</span>
+      <h1 className="text-6xl md:text-8xl lg:text-9xl font-black leading-[0.95] mb-6">
+        <span className="text-white">M</span><span className="text-white/90">&</span><span className="text-white">GA</span>
       </h1>
-      <p className="text-lg md:text-xl text-white/80 max-w-xl leading-relaxed">
-        Seu guia completo de preparação para a jornada de transformação e alta performance.
+      <p className="text-lg md:text-xl text-white/80 max-w-xl leading-relaxed font-medium mb-2">
+        Marketing & Growth Administration
+      </p>
+      <p className="text-lg md:text-xl text-white/70 max-w-xl leading-relaxed">
+        O passaporte para o ecossistema V4.
       </p>
     </div>
 
     <div className="relative z-10 flex items-center gap-6 text-xs text-white/70">
       <p className="border border-white/30 px-3 py-1.5 rounded-full text-white/80">Documento Confidencial</p>
-      <p>Exclusivo para participantes do programa Scale</p>
+      <p>Exclusivo para franqueados e parceiros V4</p>
     </div>
   </section>
 );

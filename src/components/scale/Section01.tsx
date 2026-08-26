@@ -1,6 +1,6 @@
 const steps = [
   { n: 1, title: "Encontro Executivo", desc: "Um encontro oficial de boas-vindas com líderes da matriz para integrar sua turma, alinhar expectativas e iniciar a jornada.", status: "A nossa equipa entrará em contacto para confirmar a data e o horário exatos." },
-  { n: 2, title: "Imersão Presencial (EMPS)", desc: "3 dias intensos de treinamento sobre estratégia, gestão, partnership e processos. Mentoria com franqueados seniores.", status: "A data já foi marcada. Detalhes serão divulgados no grupo oficial." },
+  { n: 2, title: "Imersão Presencial (EMPS)", desc: "3 dias intensos de treinamento sobre estratégia, gestão, partnership e processos. Mentoria com franqueados seniores.", status: "10, 11 e 12 de Setembro | 8:30 - 18:30 | Detalhes no grupo oficial" },
   { n: 3, title: "Vivência Real (Shadowing)", desc: "30 a 40 dias imersos numa operação V4. Acompanhamento prático das frentes de ADM, Pessoas, Execução & Gestão e Receita.", status: "Data e funcionamento serão divulgados no grupo." },
   { n: 4, title: "Plano de Crescimento", desc: "Construção de um plano real de crescimento para a futura operação com simulação de clientes reais e apresentação do Business Plan.", status: "Apresentação final do plano de crescimento." },
   { n: 5, title: "Encerramento e Forecasting", desc: "Conclusão da formação com entrega do plano final e projeções de crescimento para a sua operação.", status: "Apresentação final do plano de crescimento." },

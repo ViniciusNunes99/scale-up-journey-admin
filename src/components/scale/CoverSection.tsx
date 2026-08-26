@@ -11,13 +11,13 @@ const CoverSection = () => (
     <div className="relative z-10 flex-1 flex flex-col items-center justify-center text-center">
       <p className="text-sm font-medium tracking-widest uppercase text-white/70 mb-3">Bem-vindo(a) ao</p>
       <h1 className="text-6xl md:text-8xl lg:text-9xl font-black leading-[0.95] mb-6">
-        <span className="text-white">M</span><span className="text-white/90">&</span><span className="text-white">GA</span>
+        <span className="text-white">ASSESSOR</span>
       </h1>
       <p className="text-lg md:text-xl text-white/80 max-w-xl leading-relaxed font-medium mb-2">
-        Marketing & Growth Administration
+        Assessor V4
       </p>
       <p className="text-lg md:text-xl text-white/70 max-w-xl leading-relaxed">
-        O passaporte para o ecossistema V4.
+        O assessor oficial da V4.
       </p>
     </div>
 

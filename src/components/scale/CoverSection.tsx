@@ -23,7 +23,6 @@ const CoverSection = () => (
 
     <div className="relative z-10 flex items-center gap-6 text-xs text-white/70">
       <p className="border border-white/30 px-3 py-1.5 rounded-full text-white/80">Documento Confidencial</p>
-      <p>Exclusivo para franqueados e parceiros V4</p>
     </div>
   </section>
 );

@@ -13,7 +13,7 @@ const Section03 = () => (
             title: "Acesse o grupo de WhatsApp",
             desc: "Você receberá um convite para o grupo oficial. Aqui compartilharemos datas, atualizações e avisos importantes durante todo o programa.",
             extra: "💬 Ou me chame direto pelo WhatsApp se tiver dúvidas:",
-            cta: { label: "CHAMAR NO WHATSAPP →", href: "https://wa.me/5519971640438" },
+            cta: { label: "CHAMAR NO WHATSAPP →", href: "https://wa.me/5551967192261" },
           },
           {
             n: 2,

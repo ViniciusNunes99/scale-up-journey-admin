@@ -20,7 +20,7 @@ const Section06 = () => (
               icon: "🤳",
               title: "WhatsApp Direto",
               desc: "Precisa tirar uma dúvida mais rápido? Pode nos chamar direto no WhatsApp:",
-              cta: { label: "CHAMAR AGORA", href: "https://wa.me/5519971640438" },
+              cta: { label: "CHAMAR AGORA", href: "https://wa.me/5551967192261" },
             },
             {
               icon: "🤝",

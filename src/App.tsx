@@ -7,7 +7,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Index from "./pages/Index";
 import { LoadingFallback } from "@/components/LoadingFallback";
 
-// Lazy load 404 page (used rarely)
+// Lazy load 404 page (used rarely) - M&GA Brand v2
 const NotFound = lazy(() => import("./pages/NotFound"));
 
 const queryClient = new QueryClient();

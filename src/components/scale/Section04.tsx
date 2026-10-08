@@ -46,11 +46,11 @@ const Section04 = () => (
 
       <div className="glass-card p-8 space-y-5">
         <p className="text-lg font-bold text-foreground">Agenda do V4 Camp</p>
-        <p className="text-xs text-primary font-semibold">10, 11 e 12 de Setembro | 8:30 - 18:30</p>
+        <p className="text-xs text-primary font-semibold">12, 13 e 14 de Novembro | 8:30 - 18:30</p>
         {[
-          { day: "10 de Setembro", topic: "Estratégia, Estrutura Organizacional e Partnership" },
-          { day: "11 de Setembro", topic: "Modelo de Gestão e Processos (Implementação do Playbook EMPS)" },
-          { day: "12 de Setembro", topic: "Sistemas, Rituais de Cultura e Operação Real com Cases de Sucesso" },
+          { day: "12 de Novembro", topic: "Estratégia, Estrutura Organizacional e Partnership" },
+          { day: "13 de Novembro", topic: "Modelo de Gestão e Processos (Implementação do Playbook EMPS)" },
+          { day: "14 de Novembro", topic: "Sistemas, Rituais de Cultura e Operação Real com Cases de Sucesso" },
         ].map((d) => (
           <div key={d.day} className="flex items-start gap-4 border-b border-white/10 pb-4 last:border-0 last:pb-0">
             <span className="text-sm font-bold text-primary whitespace-nowrap">📅 {d.day}</span>
